@@ -1,1 +1,1 @@
-Contains all my assignments, projects, and work
+Contains all my assignments, projects, and work.
